@@ -1,5 +1,6 @@
 import React from "react";
 import "./Home.css";
+import "./Footer.css";
 import customerone from "./customerone.jpg";
 import customertwo from "./customertwo.jpg";
 import customerthree from "./customerthree.jpg";

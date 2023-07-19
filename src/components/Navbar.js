@@ -1,15 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
-//import LoggedUser from "./LoggedUser";
 import "./Navbar.css";
 import logo from "./logo.png";
-//import { Fragment } from "react";
-//import HeaderCartButton from "./HeaderCartButton";
-//import ShoppingCart from './ShoppingCart';
-//import Modal from "./Modal";
-//import CartIcon from "./CartIcon";
-//import Header from "./Header";
-//import ShoppingCart from './ShoppingCart';
 
 const Navbar = (props) => {
   return (
