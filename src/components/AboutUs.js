@@ -1,11 +1,15 @@
 import "./AboutUs.css";
 import React from "react";
-import Logodivine from "./Logodivine.png";
+import LogoDivine from "./LogoDivine.png";
 
 const AboutUs = () => {
   return (
     <div className="main">
-      <a href="http://localhost:3000/AboutUs" id="AboutUs" to="/AboutUs"></a>
+      <a
+        href="http://localhost:3000/AboutUs"
+        id="About us page"
+        to="/AboutUs"
+      ></a>
       <div className="Divine">
         <div className="col">
           <h1 className="protein">Divine Protein Ice-cream</h1>
@@ -37,7 +41,7 @@ const AboutUs = () => {
           <div className="image-logo">
             <img
               className="image-logo1"
-              src={Logodivine}
+              src={LogoDivine}
               alt="Divine Ice-cream Logo"
             />
           </div>

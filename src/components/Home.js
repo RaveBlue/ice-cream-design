@@ -99,7 +99,6 @@ const Home = () => {
           <div className="step-text-box">
             <p className="step-number">02</p>
             <h3 className="heading-tertiary">
-              {" "}
               Healthier alternative to Ice-cream (Cookies and Cream)
             </h3>
             <p className="step-description">
@@ -211,7 +210,6 @@ const Home = () => {
                 Get your first ice-cream tub for free!
               </h2>
               <p className="cta-text">
-                {" "}
                 Healthy, tasty Ice-cream is waiting for you. Start eating well
                 today. You can cancel or pause anytime. And the first Ice-cream
                 tub is on us!

@@ -3,7 +3,7 @@ import React from "react";
 //import { selectReviews } from './features/reviews/reviewsSlice';
 //import Review from "./components/Review";
 import "./Review.css";
-import Logodivine from "./Logodivine.png";
+import LogoDivine from "./LogoDivine.png";
 import Ben from "./Ben.jpg";
 import Dave from "./Dave.jpg";
 import Hannah from "./Hannah.jpg";
@@ -71,7 +71,7 @@ const Review = () => {
 
         <div className="gallery">
           <figure className="gallery-item">
-            <img src={Logodivine} alt="Divine Logo" />
+            <img src={LogoDivine} alt="Divine Logo" />
           </figure>
         </div>
       </section>
